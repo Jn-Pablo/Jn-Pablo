@@ -1,4 +1,4 @@
-- 👋 Ola, me chamo Pablo, tenho 18 anos e sou técnico em informática programador/aspirante a desenvolvedor Back end .
+ -técnico em informática,programador/aspirante a desenvolvedor Back end.
 ## 💻Tecnologias que utilizo :
 
 <a> Back-end💻 
