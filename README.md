@@ -1,5 +1,5 @@
 - 👋 Ola, me chamo Pablo, tenho 18 anos e sou técnico em informática programador/desenvolvedor Back end .
-## 💻 :
+## 💻Tecnologias que utilizo :
 
 <a> Back-end💻 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) 
