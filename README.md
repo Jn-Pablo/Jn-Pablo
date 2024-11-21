@@ -1,6 +1,5 @@
- -técnico em informática,programador/aspirante a desenvolvedor Back end.
+ -técnico em informática, programador/aspirante a desenvolvedor Back end e RPA.
 ## 💻Tecnologias que utilizo :
-
 <a> Back-end💻 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
