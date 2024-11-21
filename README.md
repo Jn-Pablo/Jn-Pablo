@@ -4,7 +4,8 @@
 <a> Back-end💻 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![C](	https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=purple) 
+![C](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white
+) 
 ![Python](	https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
 
 Front-end🌐
