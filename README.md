@@ -1,3 +1,3 @@
- -técnico em informática, programador/aspirante a desenvolvedor Back end e RPA.
+ -técnico em informática, programador/aspirante a desenvolvedor Back end.
 
  
