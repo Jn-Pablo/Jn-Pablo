@@ -1,7 +1,6 @@
 <h1 align="center"> Olá, me chamo Joan Pablo</h1>
-##Atualmente  estudo na turma ITA/IME no colégio Arí de Sá Cavalcante
+** Atualmente  estudo na turma ITA/IME no colégio Arí de Sá Cavalcante **
 
-## 🌌 Sobre mim
 
 ---
 
