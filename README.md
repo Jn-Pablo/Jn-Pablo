@@ -1,3 +1,3 @@
- -Aprendiz em Técnologias.
+ Aprendiz em Técnologias.
 
  
