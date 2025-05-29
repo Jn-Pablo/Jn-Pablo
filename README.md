@@ -1,7 +1,7 @@
-<h1 align="center">👨‍💻 Joan Pablo</h1>
+<h1 align="center">👨‍💻 Olá, me chamo Joan Pablo</h1>
 
 <p align="center">
-  <strong>Desenvolvedor | Estudante ITA/IME | Apaixonado por Física, Tecnologia e Soluções Inteligentes</strong>
+  <strong>Desenvolvedor |Estudante ITA/IME | Apaixonado por Física, Tecnologia e Soluções Inteligentes</strong>
 </p>
 
 <p align="center">
