@@ -1,5 +1,4 @@
-<h1 align="center">
-  Olá! <span class="wave">👋</span>
-</h1>
+ Olá! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 
