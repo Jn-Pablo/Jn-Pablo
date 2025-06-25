@@ -1,10 +1,8 @@
-<h2>Olá prazer :wave:, me chamo Joan Pablo</h2>
-<br>
-<h3>Aspirante em Técnologias de desenvolvimento Back-end 🥸</h3>
+<h1 align="center">
+  Olá! <span class="wave">👋</span>
+</h1>
 
-
-
- <style>
+<style>
   .wave {
     animation-name: wave-animation;
     animation-duration: 2.5s;
