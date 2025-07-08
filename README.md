@@ -1,4 +1,4 @@
-<h1>Olá <span>👋</span>, prazer! Me chamo Joan Pablo</h1>
+<h1>Olá <span>👋</span>, prazer! meu nome e Joan Pablo</h1>
 <p>Sou aspirante em desenvolvimento de tecnologias back-end.</p>
 </br>
 Atualmente estou pré vestibulando o ITA no colegio Arí de Sá, com o objetivo em cursar Engenharia Aeroespacial,
