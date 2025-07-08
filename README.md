@@ -1,4 +1,4 @@
-<html lang="pt-br">
+<html lang="en">
 <h1>Olá <span>👋</span>, prazer! &#77;e chamo Joan Pablo</h1>
 <p>Sou aspirante em desenvolvimento de tecnologias back-end.</p>
 </br>
