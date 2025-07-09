@@ -6,12 +6,15 @@ futuramente,tenho bastante interesse em fazer parte de equipes de desenvolviment
 Apesar disso, nos momentos vagos , gosto de desenvolver aplicações que sejam relevantes no dia a dia.
 
 
-### 👨‍💻 Desenvolvedor Backend
+### Tecnologias de Desenvolvimento🔧
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FC3F1D?style=for-the-badge&logo=laravel&logoColor=white)
-![PHPUnit](https://img.shields.io/badge/PHPUnit-666?style=for-the-badge&logo=php&logoColor=white)
-![Drupal](https://img.shields.io/badge/Drupal-0077C0?style=for-the-badge&logo=drupal&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2-333333?style=for-the-badge&logo=oauth&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" alt="Laravel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" width="40" alt="Drupal"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" alt="PHPUnit"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/oauth.png" width="40" alt="OAuth2"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JWT"/>
+</p>
+
