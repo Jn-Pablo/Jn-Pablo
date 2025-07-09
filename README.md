@@ -8,13 +8,12 @@ Apesar disso, nos momentos vagos , gosto de desenvolver aplicações que sejam r
 
 ### Tecnologias de Desenvolvimento🔧
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" alt="Laravel" />
+<p align="left">
   <!-- PHP -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP" />
 
-  <!-- Laravel -->
+  <!-- Laravel (via alternativa confiável) -->
   <img src="https://cdn.worldvectorlogo.com/logos/laravel.svg" width="40" alt="Laravel" />
-
 
   <!-- MySQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
@@ -22,11 +21,13 @@ Apesar disso, nos momentos vagos , gosto de desenvolver aplicações que sejam r
   <!-- Drupal -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" width="40" alt="Drupal" />
 
-  <!-- JWT (representado com ícone de JSON) -->
+  <!-- JWT -->
   <img src="https://img.icons8.com/external-flat-icons-inmotus-design/67/external-jwt-json-web-token-flat-icons-inmotus-design.png" width="40" alt="JWT" />
 
-  <!-- OAuth2 (representado com cadeado de segurança) -->
+  <!-- OAuth2 -->
   <img src="https://img.icons8.com/ios-filled/50/lock--v1.png" width="40" alt="OAuth2" />
+</p>
+
 
 
 
