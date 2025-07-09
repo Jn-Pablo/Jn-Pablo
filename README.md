@@ -2,7 +2,7 @@
 <p>💻Sou aspirante em tecnologias de desenvolvimento Back-end.🥸</p>
 </br>
 Atualmente estou pré vestibulando o ITA no colegio Arí de Sá na turma ITA/IME, com o objetivo em cursar Engenharia Aeroespacial📚, pois
-futuramente,tenho bastante interesse em fazer parte de equipes de desenvolvimento de soluções Aeroespaciais💻🛰️. 
+futuramente,tenho bastante interesse em fazer parte de equipes de desenvolvimento de soluções Aeroespaciais ou de desenvolvimento web💻🛰️. 
 Apesar disso, nos momentos vagos , gosto de desenvolver aplicações que sejam relevantes no dia a dia.
 
 ### Tecnologias de Desenvolvimento🔧
@@ -12,7 +12,7 @@ Apesar disso, nos momentos vagos , gosto de desenvolver aplicações que sejam r
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="40" alt="Laravel" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" width="40" alt="Drupal" />
-  <img src="https://img.icons8.com/external-flat-icons-inmotus-design/67/external-jwt-json-web-token-flat-icons-inmotus-design.png" width="40" alt="JWT" />
+  <img src="https://jwt.io/img/pic_logo.svg" alt="JWT Logo" width="40">
   <img src="https://img.icons8.com/ios/50/ffffff/lock--v1.png" width="40" alt="OAuth2" />
 </p>
 
