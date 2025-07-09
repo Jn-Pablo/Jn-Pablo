@@ -8,7 +8,7 @@ Apesar disso, nos momentos vagos , gosto de desenvolver aplicações que sejam r
 
 ### Tecnologias de Desenvolvimento🔧
 
-<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" alt="Laravel" />
   <!-- PHP -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP" />
 
@@ -27,7 +27,6 @@ Apesar disso, nos momentos vagos , gosto de desenvolver aplicações que sejam r
 
   <!-- OAuth2 (representado com cadeado de segurança) -->
   <img src="https://img.icons8.com/ios-filled/50/lock--v1.png" width="40" alt="OAuth2" />
-</p>
 
 
 
