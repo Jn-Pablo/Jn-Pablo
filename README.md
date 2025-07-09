@@ -9,24 +9,12 @@ Apesar disso, nos momentos vagos , gosto de desenvolver aplicações que sejam r
 ### Tecnologias de Desenvolvimento🔧
 
 <p align="left">
-  <!-- PHP -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP" />
-
-  <!-- Laravel (via alternativa confiável) -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="40" alt="Laravel" />
-
-  <!-- MySQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
-
-  <!-- Drupal -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" width="40" alt="Drupal" />
-
-  <!-- JWT -->
   <img src="https://img.icons8.com/external-flat-icons-inmotus-design/67/external-jwt-json-web-token-flat-icons-inmotus-design.png" width="40" alt="JWT" />
-
-  <!-- OAuth2 -->
   <img src="https://img.icons8.com/ios/50/ffffff/lock--v1.png" width="40" alt="OAuth2" />
-
 </p>
 
 
