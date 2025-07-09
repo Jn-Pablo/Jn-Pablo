@@ -25,7 +25,8 @@ Apesar disso, nos momentos vagos , gosto de desenvolver aplicações que sejam r
   <img src="https://img.icons8.com/external-flat-icons-inmotus-design/67/external-jwt-json-web-token-flat-icons-inmotus-design.png" width="40" alt="JWT" />
 
   <!-- OAuth2 -->
-  <img src="https://img.icons8.com/ios-filled/50/lock--v1.png" width="40" alt="OAuth2" />
+  <img src="https://img.icons8.com/ios/50/ffffff/lock--v1.png" width="40" alt="OAuth2" />
+
 </p>
 
 
