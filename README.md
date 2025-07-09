@@ -13,7 +13,7 @@ Apesar disso, nos momentos vagos , gosto de desenvolver aplicações que sejam r
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP" />
 
   <!-- Laravel (via alternativa confiável) -->
-  <img src="https://cdn.worldvectorlogo.com/logos/laravel.svg" width="40" alt="Laravel" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="40" alt="Laravel" />
 
   <!-- MySQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
