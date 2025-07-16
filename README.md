@@ -12,10 +12,10 @@ Apesar disso, nos momentos vagos , gosto de desenvolver aplicações que sejam r
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="40" alt="Laravel" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" width="40" alt="Drupal" />
   <img src="https://jwt.io/img/pic_logo.svg" alt="JWT Logo" width="40">
   <img src="https://img.icons8.com/ios/50/ffffff/lock--v1.png" width="40" alt="OAuth2" />
  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" width="40" alt="Drupal" />
 </p>
 
 
