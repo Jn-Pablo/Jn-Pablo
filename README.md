@@ -19,7 +19,7 @@ Apesar disso, nos momentos vagos , gosto de desenvolver aplicações que sejam r
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="postgressql" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40"/>
   <img src="https://skillicons.dev/icons?i=bash" width="40" alt="Bash" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" width="40" alt="ssh" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" width="40" alt="Drupal" />
   
   
