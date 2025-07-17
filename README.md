@@ -16,6 +16,7 @@ Apesar disso, nos momentos vagos , gosto de desenvolver aplicações que sejam r
   <img src="https://img.icons8.com/ios/50/ffffff/lock--v1.png" width="40" alt="OAuth2" />
  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" width="40" alt="Drupal" />
+  <img src="https://skillicons.dev/icons?i=git" />
 </p>
 
 
