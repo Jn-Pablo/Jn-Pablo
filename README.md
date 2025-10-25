@@ -1,5 +1,5 @@
 <h1>Olá <span>👋</span>, prazer! M<span>e</span> chamo Joan Pablo</h1>
-<p>💻Sou aspirante em tecnologias de desenvolvimento Back-end.🥸</p>
+<p>💻Sou um aspirante em tecnologias de desenvolvimento Back-end.🥸</p>
 </br>
 
 ### Tecnologias de Desenvolvimento🔧
