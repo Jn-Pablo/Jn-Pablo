@@ -1,5 +1,5 @@
 <h1>Olá <span>👋</span>, prazer! M<span>e</span> chamo Joan Pablo</h1>
-<p>💻 Aspirante em Técnologias da Informação.🥸</p>
+<p>💻 Aspirante em Tecnologias da Informação.🥸</p>
 </br>
 
 
